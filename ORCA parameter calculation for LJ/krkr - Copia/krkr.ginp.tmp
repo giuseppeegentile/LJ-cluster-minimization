@@ -1,0 +1,14 @@
+.\krkr.gbw 
+0 
+1 
+0 
+$constraints
+ 0
+ 0
+ 1 6
+      1      1      0     -1     -1      2  11.20092218
+
+
+$autoAddFragBonds
+ 10
+   5.00000000

@@ -1,0 +1,5 @@
+# MP2 scan of the potential energy curve for Kr
+! MP2 aug-cc-pVTZ TightSCF
+* gzmt 0 1
+Kr
+*

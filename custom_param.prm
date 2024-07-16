@@ -1,0 +1,50 @@
+
+      ##############################
+      ##                          ##
+      ##  Force Field Definition  ##
+      ##                          ##
+      ##############################
+
+
+forcefield              AMBER-FF94
+
+vdwtype                 LENNARD-JONES
+radiusrule              ARITHMETIC
+radiustype              R-MIN
+radiussize              RADIUS
+epsilonrule             GEOMETRIC
+
+
+      #############################
+      ##                         ##
+      ##  Literature References  ##
+      ##                         ##
+      #############################
+
+
+[rutkai et al](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02004)
+[White et al for Ar atom]
+
+
+      #############################
+      ##                         ##
+      ##  Atom Type Definitions  ##
+      ##                         ##
+      #############################
+
+
+atom          3    3    Ar    "Argon Atom Ar"               18    39.948    0
+atom          4    4    Kr    "Krypton Atom Kr"             36    83.800    0
+
+
+
+      ################################
+      ##                            ##
+      ##  Van der Waals Parameters  ##
+      ##                            ##
+      ################################
+
+
+vdw           3               3.345     0.2497
+vdw           4               3.6274     0.323
+

@@ -1,0 +1,11 @@
+# MP2 scan of the potential energy curve for Kr...Kr
+! MP2 aug-cc-pVTZ TightSCF opt
+%PAL NPROCS 18 END
+%geom Scan
+      B 0 1 = 2.8, 10.0, 100 # distance that will be scanned
+      end
+end
+* gzmt 0 1
+Kr
+Kr  1  3.600
+*
