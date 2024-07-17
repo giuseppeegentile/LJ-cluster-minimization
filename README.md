@@ -28,6 +28,9 @@ In addition, all results are cross-validated and compared with calculations from
 
 Notebook with code, discussion of results and comments is available [here](https://github.com/giuseppeegentile/LJ-cluster-minimization/blob/main/LJ%20cluster%20opt%20GASA.ipynb).
 
+<br>
+Additional test have been carried with a more refined voxel grid, yielding similar results but at higher expanse of computations.
+
 ### References
 [1] Genetic algorithms for computational materials discovery accelerated by machine learning, P. C. Jennings et al. \
 [2] Curless, B., & Levoy, M. (1996). A Volumetric Method for Building Complex Models from Range Images.\
