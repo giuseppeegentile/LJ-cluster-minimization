@@ -1,5 +1,6 @@
 ## MOLECULAR MODELING OF MATERIALS A.Y. 2023-2024
-##### Project by Giuseppe Gentile (HPC)
+##### Course professor: Guido Raos
+##### Student: Giuseppe Gentile (MSc HPC)
 Lennard Jones cluster optimization via Genetic Algorithm and Simulated Annealing.
 
 # Lennard Jones cluster optimization
